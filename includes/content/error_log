@@ -1,0 +1,3 @@
+[22-Nov-2014 19:27:10 America/Denver] PHP Notice:  Undefined index: userID in /home3/ssaville/public_html/indigint/includes/content/sidebarContent.php on line 5
+[22-Nov-2014 19:27:10 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ssaville/public_html/indigint/includes/content/sidebarContent.php on line 7
+[22-Nov-2014 19:27:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ssaville/public_html/indigint/includes/content/sidebarContent.php on line 7
